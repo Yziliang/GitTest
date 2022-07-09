@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("lalalalalala2");
         System.out.println("lalalalalala3");
         System.out.println("hot");
+        System.out.println("master-implicit");
     }
 }
