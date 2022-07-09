@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("hot-implicit");
         System.out.println("hhhhhhhh");
         System.out.println("aaaaaa");
+        System.out.println("aaaaaa");
     }
 }
